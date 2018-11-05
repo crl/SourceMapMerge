@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "system",
+    "outDir": "./dist",
+    "outFile": "./dist/Mj.js",
+    "sourceMap": true
+  },
+  "include": [
+    "lib"
+  ],"files": [
+    "./src/app/FileUtil.ts",
+    "./src/app/SourceMapCodec.ts",
+    "./src/app/Mj.ts"
+  ]
+}
