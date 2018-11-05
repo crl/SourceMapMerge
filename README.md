@@ -1,2 +1,2 @@
 # SourceMapMerge
-ts create SourceMap Merge to single file
+Merge the SourceMap created by TS into a single file
